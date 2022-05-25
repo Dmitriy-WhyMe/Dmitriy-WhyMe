@@ -38,9 +38,6 @@ Frontend Defeloper
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/Dmitriy-WhyMe/GoodFood" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-WhyMe&repo=GoodFood&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Dmitriy-WhyMe/okraina" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-WhyMe&repo=okraina&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/Dmitriy-WhyMe/GameMonster" align="left"><img style="padding-left: 0px !important;" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-WhyMe&repo=GameMonster&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Dmitriy-WhyMe/WeatherReact" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Dmitriy-WhyMe&repo=WeatherReact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br />
@@ -49,5 +46,3 @@ Frontend Defeloper
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Dmitriy-WhyMe"><img src="https://activity-graph.herokuapp.com/graph?username=Dmitriy-WhyMe&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Dmitriy-WhyMe" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriy-WhyMe&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
